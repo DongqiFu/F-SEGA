@@ -1,9 +1,9 @@
 # F-SEGA: Fairness-Aware Clique-Preserving Spectral Clustering of Temporal Graphs
-This repository is for the WWW' 2023 paper "Fairness-Aware Clique-Preserving Spectral Clustering of Temporal Graphs" ([Link](https://dongqifu.github.io/publications/F-SEGA.pdf)) .
+This repository is for the WWW' 2023 paper "Fairness-Aware Clique-Preserving Spectral Clustering of Temporal Graphs" ([paper](https://dongqifu.github.io/assets/pdf/F-SEGA.pdf)) .
 
 
 ## Reference
-If you use the materials from this repositiory, please refer to our paper.
+If you use the materials from this repository, please refer to our paper.
 ```
 @inproceedings{DBLP:conf/www/Fu0MCBH23,
   author       = {Dongqi Fu and
